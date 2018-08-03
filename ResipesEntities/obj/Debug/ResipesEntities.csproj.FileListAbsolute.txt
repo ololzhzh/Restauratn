@@ -1,0 +1,15 @@
+C:\Users\Inna\source\repos\Stanly1995-recipes-1db1e9db5aa6\Stanly1995-recipes-1db1e9db5aa6\ResipesEntities\bin\Debug\ResipesEntities.dll.config
+C:\Users\Inna\source\repos\Stanly1995-recipes-1db1e9db5aa6\Stanly1995-recipes-1db1e9db5aa6\ResipesEntities\bin\Debug\ResipesEntities.dll
+C:\Users\Inna\source\repos\Stanly1995-recipes-1db1e9db5aa6\Stanly1995-recipes-1db1e9db5aa6\ResipesEntities\bin\Debug\ResipesEntities.pdb
+C:\Users\Inna\source\repos\Stanly1995-recipes-1db1e9db5aa6\Stanly1995-recipes-1db1e9db5aa6\ResipesEntities\bin\Debug\EntityFramework.dll
+C:\Users\Inna\source\repos\Stanly1995-recipes-1db1e9db5aa6\Stanly1995-recipes-1db1e9db5aa6\ResipesEntities\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Inna\source\repos\Stanly1995-recipes-1db1e9db5aa6\Stanly1995-recipes-1db1e9db5aa6\ResipesEntities\bin\Debug\RecipesDomainAbstractions.dll
+C:\Users\Inna\source\repos\Stanly1995-recipes-1db1e9db5aa6\Stanly1995-recipes-1db1e9db5aa6\ResipesEntities\bin\Debug\RecipesDomainAbstractions.pdb
+C:\Users\Inna\source\repos\Stanly1995-recipes-1db1e9db5aa6\Stanly1995-recipes-1db1e9db5aa6\ResipesEntities\bin\Debug\RecipesDomainAbstractions.dll.config
+C:\Users\Inna\source\repos\Stanly1995-recipes-1db1e9db5aa6\Stanly1995-recipes-1db1e9db5aa6\ResipesEntities\bin\Debug\EntityFramework.xml
+C:\Users\Inna\source\repos\Stanly1995-recipes-1db1e9db5aa6\Stanly1995-recipes-1db1e9db5aa6\ResipesEntities\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Inna\source\repos\Stanly1995-recipes-1db1e9db5aa6\Stanly1995-recipes-1db1e9db5aa6\ResipesEntities\obj\Debug\ResipesEntities.csprojResolveAssemblyReference.cache
+C:\Users\Inna\source\repos\Stanly1995-recipes-1db1e9db5aa6\Stanly1995-recipes-1db1e9db5aa6\ResipesEntities\obj\Debug\ResipesEntities.csproj.CoreCompileInputs.cache
+C:\Users\Inna\source\repos\Stanly1995-recipes-1db1e9db5aa6\Stanly1995-recipes-1db1e9db5aa6\ResipesEntities\obj\Debug\ResipesEntities.csproj.CopyComplete
+C:\Users\Inna\source\repos\Stanly1995-recipes-1db1e9db5aa6\Stanly1995-recipes-1db1e9db5aa6\ResipesEntities\obj\Debug\ResipesEntities.dll
+C:\Users\Inna\source\repos\Stanly1995-recipes-1db1e9db5aa6\Stanly1995-recipes-1db1e9db5aa6\ResipesEntities\obj\Debug\ResipesEntities.pdb

@@ -1,0 +1,12 @@
+C:\Users\Inna\source\repos\Stanly1995-recipes-1db1e9db5aa6\Stanly1995-recipes-1db1e9db5aa6\RecipesDomainAbstractions\bin\Debug\RecipesDomainAbstractions.dll.config
+C:\Users\Inna\source\repos\Stanly1995-recipes-1db1e9db5aa6\Stanly1995-recipes-1db1e9db5aa6\RecipesDomainAbstractions\bin\Debug\RecipesDomainAbstractions.dll
+C:\Users\Inna\source\repos\Stanly1995-recipes-1db1e9db5aa6\Stanly1995-recipes-1db1e9db5aa6\RecipesDomainAbstractions\bin\Debug\RecipesDomainAbstractions.pdb
+C:\Users\Inna\source\repos\Stanly1995-recipes-1db1e9db5aa6\Stanly1995-recipes-1db1e9db5aa6\RecipesDomainAbstractions\bin\Debug\EntityFramework.dll
+C:\Users\Inna\source\repos\Stanly1995-recipes-1db1e9db5aa6\Stanly1995-recipes-1db1e9db5aa6\RecipesDomainAbstractions\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Inna\source\repos\Stanly1995-recipes-1db1e9db5aa6\Stanly1995-recipes-1db1e9db5aa6\RecipesDomainAbstractions\bin\Debug\EntityFramework.xml
+C:\Users\Inna\source\repos\Stanly1995-recipes-1db1e9db5aa6\Stanly1995-recipes-1db1e9db5aa6\RecipesDomainAbstractions\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Inna\source\repos\Stanly1995-recipes-1db1e9db5aa6\Stanly1995-recipes-1db1e9db5aa6\RecipesDomainAbstractions\obj\Debug\RecipesDomainAbstractions.csprojResolveAssemblyReference.cache
+C:\Users\Inna\source\repos\Stanly1995-recipes-1db1e9db5aa6\Stanly1995-recipes-1db1e9db5aa6\RecipesDomainAbstractions\obj\Debug\RecipesDomainAbstractions.csproj.CoreCompileInputs.cache
+C:\Users\Inna\source\repos\Stanly1995-recipes-1db1e9db5aa6\Stanly1995-recipes-1db1e9db5aa6\RecipesDomainAbstractions\obj\Debug\RecipesDomainAbstractions.csproj.CopyComplete
+C:\Users\Inna\source\repos\Stanly1995-recipes-1db1e9db5aa6\Stanly1995-recipes-1db1e9db5aa6\RecipesDomainAbstractions\obj\Debug\RecipesDomainAbstractions.dll
+C:\Users\Inna\source\repos\Stanly1995-recipes-1db1e9db5aa6\Stanly1995-recipes-1db1e9db5aa6\RecipesDomainAbstractions\obj\Debug\RecipesDomainAbstractions.pdb
